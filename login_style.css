@@ -1,0 +1,75 @@
+*{
+    font-family: Montserrat;
+}
+body {
+    font-family: Montserrat;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    background-size: cover;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+.box {
+    height: 300px;
+    width: 25%;
+    background-color: black;
+    /* opacity: 80%; */
+    position: absolute;
+    color: #fff;
+    /*transform: translate(-50%, -50%);*/
+    /*left: 50%;
+    top: 50%;*/
+    margin: auto;
+    margin-left: 35%;
+    padding: 30px 30px;
+    border-radius: 30px;
+}
+
+h1 {
+    /* margin: 0; */
+    padding: 0 0 20px;
+    text-align: center;
+    color:#2ca089;
+    font-size:40px;
+    
+}
+
+.err {
+    color: red;
+}
+
+.box input {
+    width: 100%;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.box input[type="text"],
+input[type="password"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background-color: transparent;
+    outline: none;
+    height: 40px;
+    font-size: 15px;
+}
+
+.box input[type="submit"] {
+    border: none;
+    outline: none;
+    height: 40px;
+    background-color: rgb(227, 79, 79);
+    color: #fff;
+    border-radius: 20px;
+}
+
+.box input[type="submit"]:hover {
+    cursor: pointer;
+    background-color: #ffc107;
+}
+.link{
+    margin-left:90%;
+    color:#2ca089;
+}

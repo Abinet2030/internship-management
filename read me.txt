@@ -1,0 +1,17 @@
+Internship Managment system
+
+start your xamp server
+cereate databese name=ims_wcs and then import the database.
+open xamp folder/htdoc/past the file here.
+go to any browther :localhost/htdoc/IMS
+Admin name =Admin
+      password=Admin
+please regester in student and department section.
+Group Members                       id
+1. Yabest Fikre …………………………………………….. 1301225
+2. Chala Tibeso ……………………………………………. 1200087
+3. Abinet Mulugeta ……………………………………...... 1200136
+4.Dawit Delka ……………………………………………..1200409
+5. Gashaw Adamu  ………………………………………… 201253
+6. Abdi Alemayehu ………………………………………… 1200005
+7. Yohannis Tadesse ……………………………………....... 1203187
